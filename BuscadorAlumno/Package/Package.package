@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2daf0415-3f83-4a2f-9987-81716665547d" 
+        solutionId="2daf0415-3f83-4a2f-9987-81716665547d" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="BuscadorAlumno"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6efbf485-2d52-42ed-a06c-f8cf05b0bbef" />
+  </features>
+</package>
